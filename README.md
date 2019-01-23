@@ -30,6 +30,9 @@ A [Contacts Manager](https://contacts-manager-e486f.firebaseapp.com) application
 
 ### Setup and install
 
-To run this app, follow the [instructions here](https://github.com/toddmotto/ultimate-angular-master-seed). Basically `npm install` and `npm start`. Run tests with `npm test`. Have fun!
+To run this app, follow the [instructions here](https://github.com/toddmotto/ultimate-angular-master-seed).
+Basically `npm install` and `npm start`.
+Or `yarn install` and `yarn run`.
+Run tests with `npm test`. Have fun!
 
 ![Contacts Manager](https://cloud.githubusercontent.com/assets/1655968/17981372/5907ffb0-6afb-11e6-9bb4-7e223b56e0d4.gif)
